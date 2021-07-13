@@ -38,3 +38,8 @@ The conversation screen is the one where the chats between the uses are availabl
 2.Group View: All the groups user is a part of are visible here. The create a group button is available where the user can create a group and add participants by searching them with their user name. The group stores all the conversations between the participants, users can initiate a video call and continue the conversation there, the meeting chats will also be stored in the chats. 
 3.Meet View: Options are available either to host a meeting or to join a meeting. A meeting can be joined in the two roles: Audience Role: where the user can just be a spectator and Participant Role where the user can be part of the call and messages in the call.
 The dashboard also has a signout button to log the user out of the account. user info can also be viewed on the dashboard.
+
+
+Design Doc:https://jeewa.bit.ai/docs/view/W8DbVQK1idA5OP7T 
+
+UI Schema: https://framer.com/projects/lMKesNM3YqA5Eur44P4j-28kg8
